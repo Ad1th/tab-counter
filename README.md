@@ -21,8 +21,7 @@ I didn't trust the ones on the Chrome Web Store, and figured—why use one from 
 - The badge on the icon also shows the current tab count.
 
 ## Screenshot
-
-<!-- Add a screenshot here if desired -->
+<img width="54" height="131" alt="image" src="https://github.com/user-attachments/assets/2e7a959d-5d7f-4013-974d-5f05957a3f1c" />
 
 ## License
 
